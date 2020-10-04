@@ -1,7 +1,7 @@
 - pipeline:
     name: check
     description: |
-      Newly opened pull requests enter this pipeline to receive an
+      Newly opened pull requests enter this pipeline to receive an 1
       initial verification
     manager: independent
     trigger:
